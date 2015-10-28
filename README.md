@@ -1,2 +1,4 @@
 # Ice-Chess
-Cocos2d-x
+
+A simple chess game made by cocos2dx engine.
+
